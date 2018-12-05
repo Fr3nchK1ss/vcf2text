@@ -3,7 +3,7 @@ Small program to parse vcf files (RFC 6350) to human readable formats.
 
 In bin/ you will find a vcf2text blob which runs on Linux Ubuntu 18.04.
 
-This program is GPLed³
+    This program is GPLed³
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
